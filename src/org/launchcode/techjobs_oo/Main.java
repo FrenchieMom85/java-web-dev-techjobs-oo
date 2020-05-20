@@ -17,8 +17,6 @@ public class Main {
         for (Job job : jobs){
             System.out.println(job);
         }
-
-        System.out.println(job1.toString());
     }
 
 }
